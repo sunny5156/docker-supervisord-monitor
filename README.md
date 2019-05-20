@@ -1,2 +1,2 @@
 # docker-supervisord-monitor
-Docker Supervisord Monitor
+docker-supervisord-monitor
