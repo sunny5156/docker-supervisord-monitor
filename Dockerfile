@@ -17,7 +17,7 @@ ADD nginx.conf /etc/nginx/nginx.conf
 ADD run.sh /run.sh
 RUN chmod +x /run.sh
 
-EXPOSE 80:80
+EXPOSE 80
 
 ENTRYPOINT /run.sh
 #CMD /bin/bash
