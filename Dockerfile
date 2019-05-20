@@ -1,6 +1,6 @@
-FROM centos:7
+FROM centos:centos7
 
-MAINTAINER  Martin Lazarov martin@lazarov.bg
+MAINTAINER sunny5156 <sunny5156@qq.com>
 
 RUN yum install -y git
 RUN yum install -y epel-release
